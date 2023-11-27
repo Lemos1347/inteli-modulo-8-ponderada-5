@@ -1,0 +1,4 @@
+langchain
+gradio
+sentence_transformers
+chromadb
